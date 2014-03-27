@@ -4,7 +4,7 @@ Record any of the strange things you've heard around the office which we may hav
 
 
 ## How to contribute
-1. Edit the words file with one word or phrase per line
+1. Edit the `words.txt` file with one word or phrase per line
 2. You're done
 
 # FAQ
