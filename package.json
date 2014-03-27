@@ -1,0 +1,29 @@
+{
+  "name": "deepdive",
+  "version": "0.0.0",
+  "description": "jargon file",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/drewrwilson/DeepDiveOnJargon.git"
+  },
+  "keywords": [
+    "jargon"
+  ],
+  "author": "drew",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/drewrwilson/DeepDiveOnJargon/issues"
+  },
+  "homepage": "https://github.com/drewrwilson/DeepDiveOnJargon",
+  "devDependencies": {
+    "chai": "^1.9.1",
+    "mocha": "^1.18.2"
+  },
+  "dependencies": {
+    "stream-array": "^0.1.3"
+  }
+}
