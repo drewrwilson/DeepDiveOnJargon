@@ -1,11 +1,12 @@
 {
   "name": "deepdive",
-  "version": "0.0.0",
+  "version": "0.0.5",
   "description": "jargon file",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
   },
+  "bin": "./cli.js",
   "repository": {
     "type": "git",
     "url": "git://github.com/drewrwilson/DeepDiveOnJargon.git"

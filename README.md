@@ -37,3 +37,31 @@ console.log(jargon.random)
 we've got those.
 
 `$ npm test`
+
+# command line usage
+
+we can do that too!
+
+## installation
+
+first you'll need to [install node on your system](http://nodejs.org/download/)
+
+then `$ npm install -g deepdive`
+
+and now you can run it from the console:
+```
+$ deepdive
+leverage
+```
+which means you can do crazy things like
+```
+$ cowsay `deepdive`
+ ________
+< buy-in >
+ --------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```

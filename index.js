@@ -1,7 +1,8 @@
 var fs = require('fs')
+var path = require('path')
 var streamArray = require('stream-array')
 
-var words = fs.readFileSync('./words.txt')
+var words = fs.readFileSync(path.resolve(__dirname, './words.txt'))
 			  .toString()
 			  .trim()
 			  .split('\n')
