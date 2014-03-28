@@ -53,3 +53,4 @@ dogfooding
 bandwidth
 buy-in
 knock it out
+core competency
