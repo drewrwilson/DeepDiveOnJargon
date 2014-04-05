@@ -1,67 +1,67 @@
+21st Century City
+ask (noun)
+bandwidth
+bio break
+brigade
+buy-in
+capture
+catalyze
+circle back
+core
+core competency
+core constituency
 deep dive
 deep think
-ideation
-ideate
-learnings
-move the needle
-circle back
-take it offline
-forcing function
-flash ponder
-bio break
-hack the process
-minimum viable product
-timebox
-healthcare vertical
-twinkling fingers
-trust the process
-thought leader
 disruption
-industry disruptor
-stand up meeting
-government as a platform
-webinar
-capture
-brigade
-ask (noun)
-sync
-integration
-heavy lift
-catalyze
-redeployment
-punchlist
-this piece
-that piece
-soft touch
-prong
-open
-metrics
-net impression
-outcomes
-core
-core constituency
-engagement
-scale
-resource
-network
-leverage
-process
-the funnel
-love bomb
-space (as a postfix)
 dogfooding
-bandwidth
-buy-in
-knock it out
-core competency
-21st Century City
-stand up (create)
-empower
 emergent outcomes
-throwing thirties
-smart cities
-transparency
-rollup
+empower
+engagement
+flash ponder
+forcing function
+government as a platform
+hack the process
+healthcare vertical
+heavy lift
+ideate
+ideation
+industry disruptor
+integration
+knock it out
+learnings
+leverage
+love bomb
+metrics
+minimum viable product
+move the needle
+net impression
+network
+open
+outcomes
+process
+prong
+punchlist
 reason about
 redeploy
+redeployment
+resource
+rollup
+scale
+smart cities
+soft touch
+space (as a postfix)
+stand up (create)
+stand up meeting
+sync
+take it offline
+that piece
+the funnel
 theory of change
+this piece
+thought leader
+throwing thirties
+timebox
+transparency
+trust the process
+twinkling fingers
+webinar
