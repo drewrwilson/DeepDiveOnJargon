@@ -1,5 +1,6 @@
 +1
 21st Century City
+action item
 ask (noun)
 bandwidth
 bio break
@@ -18,6 +19,7 @@ deep think
 disruption
 doacracy
 dogfooding
+due diligence
 emergent outcomes
 empower
 engagement
@@ -53,6 +55,7 @@ resource
 rollup
 row-sham-bo
 scale
+scrum
 smart cities
 soft touch
 space (as a postfix)
