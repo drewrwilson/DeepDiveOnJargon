@@ -20,7 +20,7 @@ You can do it!
 ```js
 var jargon = require('deepdive')
 
-console.log(jargon.random)
+console.log(jargon.random())
 // => 'industry disruptor'
 ```
 
