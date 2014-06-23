@@ -59,6 +59,7 @@ scrum
 smart cities
 soft touch
 space (as a postfix)
+spectogram
 stand up (create)
 stand up meeting
 sync
