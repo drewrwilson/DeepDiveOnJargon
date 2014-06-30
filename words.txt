@@ -50,6 +50,7 @@ outcomes
 process
 prong
 punchlist
+quotables
 reason about
 redeploy
 redeployment
