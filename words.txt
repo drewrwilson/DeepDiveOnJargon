@@ -12,6 +12,7 @@ catalyze
 change agent
 circle back
 civic tech
+cone
 core
 core competency
 core constituency
