@@ -44,6 +44,7 @@ metrics
 minimum viable product
 move the needle
 net impression
+net new
 network
 open
 open government
