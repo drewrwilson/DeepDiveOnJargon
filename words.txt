@@ -49,6 +49,7 @@ network
 open
 open government
 outcomes
+ping
 process
 prong
 punchlist
