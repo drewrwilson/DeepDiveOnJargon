@@ -16,6 +16,7 @@ cone
 core
 core competency
 core constituency
+data driven decisions
 deep dive
 deep think
 disruption
