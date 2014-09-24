@@ -10,6 +10,7 @@ buy-in
 capture
 catalyze
 change agent
+change leader
 circle back
 civic tech
 cone
@@ -77,6 +78,7 @@ the funnel
 theory of change
 this piece
 thought leader
+thought partner
 throwing thirties
 timebox
 transparency
