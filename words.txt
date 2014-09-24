@@ -3,10 +3,13 @@
 action item
 ask (noun)
 bandwidth
+big data
 bio break
 bleeding edge
 brigade
 buy-in
+capacity
+capitalism 
 capture
 catalyze
 change agent
@@ -29,51 +32,76 @@ ecosystem
 emergent outcomes
 empower
 engagement
+feedback mechanisms
 flash ponder
 forcing function
 government as a platform
+guide
 hack the process
 healthcare vertical
 heavy lift
+how might we...?
 ideate
 ideation
+impact
+inclusive
 industry disruptor
+innovation
 integration
+iterate 
 knock it out
+launch
 learnings
+let's put that in the parking lot
 leverage
+libertarian
 looping in
 love bomb
+low lift
+maximum viable product
 metrics
 minimum viable product
 move the needle
+multistakeholderism
 net impression
 net new
 network
+nimble
+non-trivial
+objective
 open
+open data
 open government
 outcomes
 ping
+pipeline
 platform
+policy
 problem statement
 process
 prong
+public feedback
+public input 
 punchlist
 quotables
 reason about
 redeploy
 redeployment
 resource
+return on investment
 rollup
 row-sham-bo
 scale
 scrum
 smart cities
+socialism
+soft skills
 soft touch
 space (as a postfix)
 spectogram
 stand up (create)
 stand up meeting
+sustainable
 sync
 take it offline
 that piece
@@ -88,7 +116,7 @@ transparency
 trust the process
 tutorialscape
 twinkling fingers
+usability
+virtuous cycle
 webinar
-let's put that in the parking lot
-how might we...?
-multistakeholderism
+with not for
