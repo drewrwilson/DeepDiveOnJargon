@@ -4,6 +4,7 @@ action item
 ask (noun)
 bandwidth
 big data
+big data revolution
 bio break
 bleeding edge
 brigade
@@ -16,11 +17,15 @@ change agent
 change leader
 circle back
 civic tech
+cloud
+cloud computing
 cone
 core
 core competency
 core constituency
+correlation
 data driven decisions
+data science
 deep dive
 deep think
 digital-first communications
@@ -32,6 +37,7 @@ ecosystem
 emergent outcomes
 empower
 engagement
+enterprise software
 feedback mechanisms
 flash ponder
 forcing function
@@ -49,7 +55,8 @@ inclusive
 industry disruptor
 innovation
 integration
-iterate 
+iterate
+iteration
 knock it out
 launch
 learnings
@@ -94,6 +101,7 @@ rollup
 row-sham-bo
 scale
 scrum
+sentiment analysis
 smart cities
 socialism
 soft skills
@@ -104,6 +112,7 @@ stand up (create)
 stand up meeting
 sustainable
 sync
+synergy
 take it offline
 that piece
 the funnel
