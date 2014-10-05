@@ -1,29 +1,48 @@
 +1
 21st Century City
+311DailyBrief
 action item
+Adopt-a-Hydrant
+Airwolf
 ask (noun)
 bandwidth
 big data
 big data revolution
 bio break
+BizFriendly
 bleeding edge
+BlightStatus
+Blockee
 brigade
+Brigade
 buy-in
+Calfresh-and-So-Clean
 capacity
-capitalism 
+capitalism
 capture
 catalyze
 change agent
 change leader
 circle back
+CityGram
+CityVoice
 civic tech
+Civic-Commons-Marketplace
+Civics Garden
+Click That Hood
 cloud
 cloud computing
+Code Island
+Code of Conduct
 cone
 core
 core competency
 core constituency
 correlation
+Councilmatic
+courtbot
+CrossHack
+CutiesIn
 data driven decisions
 data science
 deep dive
@@ -38,16 +57,24 @@ emergent outcomes
 empower
 engagement
 enterprise software
+Fast Pass
 feedback mechanisms
 flash ponder
 forcing function
+formbot
+GeoLookup
+georelevent
+github-tidy
 government as a platform
 guide
 hack the process
 healthcare vertical
 heavy lift
 higher fidelity
+homeroots
+Honolulu Answers
 how might we...?
+Human Services Finder
 ideate
 ideation
 impact
@@ -57,7 +84,9 @@ innovation
 integration
 iterate
 iteration
+JobOps
 knock it out
+Landshark
 launch
 learnings
 let's put that in the parking lot
@@ -71,28 +100,45 @@ metrics
 minimum viable product
 move the needle
 multistakeholderism
+MuniciPal
+NeighborDiff
+Neighborhow
 net impression
 net new
 network
 nimble
 non-trivial
 objective
+Ohana
 open
 open data
+Open Data Census
 open government
+Open-Data-Catalog
+Open311
+open311status
+OpenBlight
+OpenCounter
+OpenTrails
 outcomes
+Peer Network
 ping
 pipeline
 platform
 policy
+prepared.ly
+PrimerPeso
 problem statement
 process
+procure-io
+Promptly
 prong
 public feedback
-public input 
+public input
 punchlist
 quotables
 reason about
+RecordTrac
 redeploy
 redeployment
 resource
@@ -102,26 +148,39 @@ row-sham-bo
 scale
 scrum
 sentiment analysis
+shadowbird
 smart cities
 socialism
 soft skills
 soft touch
 space (as a postfix)
 spectogram
+spot-it-like-its-hot
 stand up (create)
 stand up meeting
+StrayMapper
+StreetMix
+super-mayor
 sustainable
 sync
 synergy
 take it offline
+Textizen
+TextYourCity
 that piece
+thats-my-bike
 the funnel
 theory of change
 this piece
 thought leader
 thought partner
 throwing thirties
+Ticket to Ride
 timebox
+Trailsy
+Transit2Me
+transitjson
+TransitMix
 transparency
 trust the process
 tutorialscape
@@ -129,4 +188,6 @@ twinkling fingers
 usability
 virtuous cycle
 webinar
+Where's My School Bus
 with not for
+Work for America
