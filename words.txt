@@ -47,6 +47,8 @@ CutiesIn
 data driven decisions
 data science
 deep dive
+deeplink
+deeplink schemes
 deep think
 digital-first communications
 disruption
