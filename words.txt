@@ -123,6 +123,8 @@ OpenTrails
 organic traffic
 outcomes
 Peer Network
+persona
+personas
 ping
 pipeline
 platform
