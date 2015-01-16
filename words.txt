@@ -3,6 +3,7 @@
 311DailyBrief
 action item
 Adopt-a-Hydrant
+agile
 Airwolf
 ask (noun)
 bandwidth
@@ -42,7 +43,9 @@ core constituency
 correlation
 Councilmatic
 courtbot
+cross-functional workshop
 CrossHack
+customer journey
 CutiesIn
 data driven decisions
 data science
@@ -50,13 +53,17 @@ deep dive
 deeplink
 deeplink schemes
 deep think
+diary investigation
 digital-first communications
 disruption
+disruptive thinking
 doacracy
 dogfooding
 due diligence
 ecosystem
 emergent outcomes
+empathy
+empathy map
 empower
 engagement
 enterprise software
@@ -90,6 +97,8 @@ iteration
 jargon file
 JobOps
 knock it out
+KPIs (key performance indicators)
+KPIs (kyrptonic predator installation)
 Landshark
 launch
 learnings
@@ -100,6 +109,7 @@ looping in
 love bomb
 low lift
 maximum viable product
+methodology
 metrics
 minimum viable product
 move the needle
@@ -150,11 +160,13 @@ redeploy
 redeployment
 resource
 return on investment
+roadmap
 rollup
 row-sham-bo
 scale
 scrum
 sentiment analysis
+server resiliance
 shadowbird
 smart cities
 socialism
@@ -165,6 +177,7 @@ spectogram
 spot-it-like-its-hot
 stand up (create)
 stand up meeting
+strategic aims
 StrayMapper
 StreetMix
 super-mayor
@@ -193,7 +206,10 @@ trust the process
 tutorialscape
 twinkling fingers
 usability
+user need
+UX
 virtuous cycle
+vision
 wantrepreneur
 webinar
 Where's My School Bus
