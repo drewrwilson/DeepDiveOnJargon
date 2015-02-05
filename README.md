@@ -4,7 +4,13 @@ Record any of the strange things you've heard around the office which we may hav
 
 
 ## How to contribute
-1. Edit the `words.txt` file with one word or phrase per line
+1. Edit the `words.csv` file with one word or phrase per line  
+   * enter jargon as the first value
+   * bonus points for adding additional comma-separated variations corresponding to parts of speech  
+   * for example:  
+   `JARGON,verb - present,noun,adjective,phrase,proper noun`  
+   `Adopt-a-Hydrant,,,,,Adopt-a-Hydrant`  
+   `disruption,disrupt,disruption,disruptive,,`
 2. You're done
 
 # FAQ
